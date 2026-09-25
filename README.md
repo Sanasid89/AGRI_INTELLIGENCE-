@@ -1,14 +1,14 @@
-**Agri Intelligence** is a web platform for machine-learning-driven agricultural decision support[cite: 2].
+**Agri Intelligence** is a web platform for machine-learning-driven agricultural decision support.
 
 ---
 
 ## 🚀 Key Features
 
-* **🌾 Crop Advisor:** Predicts optimal crops based on NPK values, soil pH, temperature, humidity, and rainfall[cite: 2].
-* **🌿 Fertilizer Advisor:** Recommends targeted fertilizer formulations based on soil and climate conditions[cite: 2].
-* **📊 Market Intelligence:** Interactive price analytics powered by a Neural Network trained on 23,000+ mandi records[cite: 2].
-* **🌦️ Live Weather:** Real-time weather forecasting paired with context-aware agricultural advisories[cite: 2].
-* **🌱 Agri Revolution & Research:** Historical agricultural milestones and machine learning case studies in agronomy[cite: 2].
+* **🌾 Crop Advisor:** Predicts optimal crops based on NPK values, soil pH, temperature, humidity, and rainfall.
+* **🌿 Fertilizer Advisor:** Recommends targeted fertilizer formulations based on soil and climate conditions.
+* **📊 Market Intelligence:** Interactive price analytics powered by a Neural Network trained on 23,000+ mandi records.
+* **🌦️ Live Weather:** Real-time weather forecasting paired with context-aware agricultural advisories.
+* **🌱 Agri Revolution & Research:** Historical agricultural milestones and machine learning case studies in agronomy.
 
 ---
 
@@ -24,6 +24,6 @@
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)[cite: 2]
-* **Visualization:** Custom SVG and CSS dynamic charts[cite: 2]
-* **ML Concepts:** Random Forest Classifier & Sequential Dense Neural Network[cite: 2]# AGRI_INTELLIGENCE-
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Visualization:** Custom SVG and CSS dynamic charts.
+* **ML Concepts:** Random Forest Classifier & Sequential Dense Neural Network# AGRI_INTELLIGENCE-
